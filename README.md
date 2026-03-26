@@ -45,5 +45,5 @@ Simply open `index.html` in any browser to start using Bhojnalaya.
 This project is licensed under the **MIT License**
 
 ## Developer
-💡 Developed by: **Prashant Gupta**.  
+💡 Developed by: **Prashant Gupta & Raj Kumar**.  
 🌟 If you like this project, don't forget to ⭐ star the repository!
