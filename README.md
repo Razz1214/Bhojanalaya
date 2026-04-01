@@ -30,7 +30,7 @@ In many college canteens, students exploited a loophole in the manual billing sy
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/prashant-g0/bhojnalaya_2.0.git
+git clone https://github.com/Razz1214/Bhojanalaya
 ```
 
 ### 2️⃣ Open the Project
